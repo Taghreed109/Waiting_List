@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Waiting List</string>
+    <string name="home">Students</string>
+    <string name="no_students">No Students found!</string>
+    <string name="add_student">New Student</string>
+    <string name="edit_student">Edit Student</string>
+</resources>
